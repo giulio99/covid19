@@ -1,10 +1,10 @@
 divisione regioni:
 
-nord:		centro:			sud:			isole:
-valle d'aosta	toscana			puglia			sicilia
-piemonte	lazio			campania		sardegna
-liguria		marche			basilicata
-lombardia	abruzzo			calabria
+nord:		centro:		sud:		isole:
+valle d'aosta	toscana		puglia		sicilia
+piemonte	lazio		campania	sardegna
+liguria		marche		basilicata
+lombardia	abruzzo		calabria
 veneto		umbria
 trentino	molise
 friuli
